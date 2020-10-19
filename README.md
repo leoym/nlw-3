@@ -3,7 +3,7 @@ Project for Next Level Week #3
 
 ## Useful informations about this Repo:
 
-## This repo contains code for React Application with Type Script
+This repo contains code for React Application with Type Script
 
 ## Front Code:
 
